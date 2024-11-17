@@ -4,13 +4,7 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <header>
-      <nav>
-        <ul>
-          <li><Link to="/">Home</Link></li>
-          <li><Link to="/Productpage">Product</Link></li>
-         
-        </ul>
-      </nav>
+     <h1>fdsfddddd</h1>
       
     </header>
     
